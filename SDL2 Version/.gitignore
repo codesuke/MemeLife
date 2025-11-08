@@ -33,6 +33,7 @@ Makefile
 .DS_Store
 
 # vcpkg
+vcpkg/
 vcpkg_installed/
 
 # Temporary files
