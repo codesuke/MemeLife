@@ -1,4 +1,0 @@
-ID: 01_start
-DESC: You awaken. A blinking cursor is the only thing you can see. Your journey begins.
-CHOICE: Embrace the meme. | 02_first_choice
-CHOICE: Question reality. | 03_logic_choice
