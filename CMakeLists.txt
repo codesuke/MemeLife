@@ -13,6 +13,11 @@ set(SOURCES
     src/main.cpp
     src/Terminal.cpp
     src/AssetLoader.cpp
+    src/Renderer.cpp
+    src/Map.cpp
+    src/Quiz.cpp
+    src/Battle.cpp
+    src/Save.cpp
 )
 
 # Create executable

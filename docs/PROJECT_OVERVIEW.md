@@ -6,6 +6,24 @@ MemeLife is a terminal-based narrative game where players navigate through the w
 
 ---
 
+## 🕹️ How to Play (Quick Start)
+
+- Controls:
+    - WASD: Move the player on the map (W up, A left, S down, D right). Both uppercase and lowercase are supported.
+    - E (interact): Trigger events or quiz tiles when standing on an event tile (marked 'E').
+    - 1 / 2 / 3 / ...: Select choices in quizzes and battle actions.
+    - Q: Back / Quit (context-sensitive)
+
+- Objective:
+    - Explore the level map to find event tiles (E) and the boss (B).
+    - Answer meme quizzes on event tiles to gain stats or lose HP for wrong answers.
+    - Reach the boss tile and defeat the boss using a small turn-based combat system. The boss unlocks a finisher after a few normal attacks; the finisher ends the fight if used when available.
+
+- Tips:
+    - Keep an eye on your HP in the HUD — wrong quiz answers reduce HP.
+    - Correct quiz answers increase your Strength (or other stats depending on the question); the game explicitly tells you which stat changed.
+    - The console size should be at least 80x25 for best layout.
+
 ## 🏗️ Architecture
 
 ### Design Philosophy
