@@ -13,6 +13,9 @@ struct Stats {
     int sanity;
     int hp;
     int maxHp;
+    // Phase 2 additions
+    int strength;    // Affects normal attacks and quiz rewards
+    int memePower;   // Affects special/finisher potency and growth
 };
 
 // Player struct - represents the player character
