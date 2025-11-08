@@ -1,0 +1,3 @@
+DIALOGUE "You bought a fresh coffee. It tastes amazing!"
+SUBTRACT_MONEY 20
+ADD_STAT energy 15

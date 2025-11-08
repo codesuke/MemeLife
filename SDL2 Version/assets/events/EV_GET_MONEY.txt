@@ -1,0 +1,2 @@
+DIALOGUE "You withdrew 500 bucks from the ATM."
+ADD_MONEY 500

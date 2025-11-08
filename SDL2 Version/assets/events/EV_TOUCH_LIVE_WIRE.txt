@@ -1,0 +1,2 @@
+DIALOGUE "Ouch! You touched a live wire!"
+HOSPITALIZE
